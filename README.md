@@ -1,4 +1,4 @@
-# Classification2
+# Classification
 
 # Project Name- Bank Marketing Effectiveness Prediction
 
